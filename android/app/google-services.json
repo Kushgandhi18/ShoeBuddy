@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "712255201754",
+    "project_id": "shoebuddy-e10ce",
+    "storage_bucket": "shoebuddy-e10ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712255201754:android:334b786dc031a40f3560e3",
+        "android_client_info": {
+          "package_name": "com.example.shoebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712255201754-ef2pdegjmg1o95e7ob3ubftid39isb2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8I7ZpVJ3_vCdWTN4AtCAQ31zitc3o2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712255201754-ef2pdegjmg1o95e7ob3ubftid39isb2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712255201754-6luoqogfed85si6ftuv6p3aa4eqnnrrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoebuddy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
